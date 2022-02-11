@@ -1,2 +1,6 @@
 # Super-Mario
-Super Mario tutorial using pygame
+
+Full super mario game tutorial by using Pygame.
+
+## Game File Framework
+
